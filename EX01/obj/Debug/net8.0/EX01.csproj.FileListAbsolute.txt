@@ -1,0 +1,14 @@
+/mnt/TADS/EX01/bin/Debug/net8.0/EX01
+/mnt/TADS/EX01/bin/Debug/net8.0/EX01.deps.json
+/mnt/TADS/EX01/bin/Debug/net8.0/EX01.runtimeconfig.json
+/mnt/TADS/EX01/bin/Debug/net8.0/EX01.dll
+/mnt/TADS/EX01/bin/Debug/net8.0/EX01.pdb
+/mnt/TADS/EX01/obj/Debug/net8.0/EX01.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/TADS/EX01/obj/Debug/net8.0/EX01.AssemblyInfoInputs.cache
+/mnt/TADS/EX01/obj/Debug/net8.0/EX01.AssemblyInfo.cs
+/mnt/TADS/EX01/obj/Debug/net8.0/EX01.csproj.CoreCompileInputs.cache
+/mnt/TADS/EX01/obj/Debug/net8.0/EX01.dll
+/mnt/TADS/EX01/obj/Debug/net8.0/refint/EX01.dll
+/mnt/TADS/EX01/obj/Debug/net8.0/EX01.pdb
+/mnt/TADS/EX01/obj/Debug/net8.0/EX01.genruntimeconfig.cache
+/mnt/TADS/EX01/obj/Debug/net8.0/ref/EX01.dll
