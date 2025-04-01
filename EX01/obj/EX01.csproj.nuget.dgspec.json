@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/TADS/EX01/EX01.csproj": {}
+    "/home/estudante/Documentos/Joao Junior - TADS25/PPO/EX01/EX01.csproj": {}
   },
   "projects": {
-    "/mnt/TADS/EX01/EX01.csproj": {
+    "/home/estudante/Documentos/Joao Junior - TADS25/PPO/EX01/EX01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/TADS/EX01/EX01.csproj",
+        "projectUniqueName": "/home/estudante/Documentos/Joao Junior - TADS25/PPO/EX01/EX01.csproj",
         "projectName": "EX01",
-        "projectPath": "/mnt/TADS/EX01/EX01.csproj",
+        "projectPath": "/home/estudante/Documentos/Joao Junior - TADS25/PPO/EX01/EX01.csproj",
         "packagesPath": "/home/estudante/.nuget/packages/",
-        "outputPath": "/mnt/TADS/EX01/obj/",
+        "outputPath": "/home/estudante/Documentos/Joao Junior - TADS25/PPO/EX01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/estudante/.nuget/NuGet/NuGet.Config"
