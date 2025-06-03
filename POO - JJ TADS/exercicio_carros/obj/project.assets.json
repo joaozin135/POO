@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/estudante/Documentos/POO - JJ TADS/exercicio_carros/exercicio_carros.csproj",
+      "projectUniqueName": "/home/estudante/Documentos/GitHub/PPO/POO - JJ TADS/exercicio_carros/exercicio_carros.csproj",
       "projectName": "exercicio_carros",
-      "projectPath": "/home/estudante/Documentos/POO - JJ TADS/exercicio_carros/exercicio_carros.csproj",
+      "projectPath": "/home/estudante/Documentos/GitHub/PPO/POO - JJ TADS/exercicio_carros/exercicio_carros.csproj",
       "packagesPath": "/home/estudante/.nuget/packages/",
-      "outputPath": "/home/estudante/Documentos/POO - JJ TADS/exercicio_carros/obj/",
+      "outputPath": "/home/estudante/Documentos/GitHub/PPO/POO - JJ TADS/exercicio_carros/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/estudante/.nuget/NuGet/NuGet.Config"
