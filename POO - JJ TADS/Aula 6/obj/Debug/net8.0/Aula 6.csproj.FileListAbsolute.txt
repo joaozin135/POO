@@ -1,0 +1,14 @@
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/bin/Debug/net8.0/Aula 6
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/bin/Debug/net8.0/Aula 6.deps.json
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/bin/Debug/net8.0/Aula 6.runtimeconfig.json
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/bin/Debug/net8.0/Aula 6.dll
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/bin/Debug/net8.0/Aula 6.pdb
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/obj/Debug/net8.0/Aula 6.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/obj/Debug/net8.0/Aula 6.AssemblyInfoInputs.cache
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/obj/Debug/net8.0/Aula 6.AssemblyInfo.cs
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/obj/Debug/net8.0/Aula 6.csproj.CoreCompileInputs.cache
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/obj/Debug/net8.0/Aula 6.dll
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/obj/Debug/net8.0/refint/Aula 6.dll
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/obj/Debug/net8.0/Aula 6.pdb
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/obj/Debug/net8.0/Aula 6.genruntimeconfig.cache
+/home/estudante/Documentos/POO - JJ TADS/Aula 6/obj/Debug/net8.0/ref/Aula 6.dll
