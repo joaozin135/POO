@@ -1,13 +1,17 @@
 public abstract class Veiculo : IVeiculo
 {
    int _ano;
-   string _placa;
    string _modelo;
-   public Veiculo(int ano, string placa, string modelo)
+   bool _locado = false;
+
+   public event Action<int, string>? VeiculoAlugado;
+
+   public Veiculo(int ano, string modelo, bool locado)
    {
       _modelo = modelo;
-      _placa = placa;
-      _ano = ano; 
+
+      _ano = ano;
+      _locado = locado;
    }
 
    public virtual void ExibirPlaca()
@@ -24,4 +28,10 @@ public abstract class Veiculo : IVeiculo
    {
       Console.WriteLine($"O modelo do carro é: {_modelo}\n");
    }
+
+   protected virtual void OnVeiculoAlugado()
+   {
+      VeiculoAlugado?.Invoke(this.GetType)
+   }
+
 }
