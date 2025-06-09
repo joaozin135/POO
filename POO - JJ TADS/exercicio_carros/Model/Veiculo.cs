@@ -14,6 +14,8 @@ public abstract class Veiculo : IVeiculo
       _locado = locado;
    }
 
+    
+
    public virtual void ExibirPlaca()
    {
       Console.WriteLine($"A placa do veiculo é: {_placa}");
